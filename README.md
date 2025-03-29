@@ -1,11 +1,11 @@
 <h1> Hello! I'm Jasson Valle <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>👀 </h1>
 <p align='center'>
 </p>
-
 <img align="right" height="285" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat" />
-Software Engineer | Data Analysis Enthusiast 
 
-A developer who lives at the pace of “one commit at a time".
+Systems Engineering | Data Analysis Enthusiast
+
+*A developer who lives at the pace of "one commit at a time".* 
 
 ### 📊 Statistics. 
 
