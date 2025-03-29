@@ -3,7 +3,7 @@
 </p>
 
 <img align="right" height="285" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat" />
-Software Engineer | Data Analysis Enthusiast
+Software Engineer | Data Analysis Enthusiast 
 
 A developer who lives at the pace of “one commit at a time".
 
@@ -19,7 +19,7 @@ A developer who lives at the pace of “one commit at a time".
 
 <img src="https://skillicons.dev/icons?i=vscode,js,react,python,ts,html,css,tailwind,vite,nodejs,dotnet,php,mysql,mongodb,sqlserver,docker,git,github,azure,figma,md,kotlin,postman,jira" />
 
-&#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Jsson47">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsson47&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -28,7 +28,7 @@ A developer who lives at the pace of “one commit at a time".
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jsson47&show_icons=true)&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jsson47's GitHub Stats" />
 </a>
 
-## 🙏 *Special thanks*.
+### 🙏 *Special thanks*.
 
 - *To my coffee:* For keeping me awake on code nights. ☕  
 - *To the bugs:* For teaching me patience and humility. 🐛  
