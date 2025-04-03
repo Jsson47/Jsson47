@@ -11,7 +11,7 @@ Systems Engineering | Data Analysis Enthusiast
 
 - *Coffees consumed this year:* [Ridiculously high number] ☕ ☕  
 - *Bugs fixed:* [Modest number] 🐞  
-- Bugs created:* [Alarmingly high number] 🚨  
+- *Bugs created:* [Alarmingly high number] 🚨  
 - *Projects completed:* [Number we hope to increase] ✅  
 
 
